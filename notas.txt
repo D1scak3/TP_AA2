@@ -1,0 +1,40 @@
+transformar ficheiros todos para UPPERCASE
+
+contar chars
+    exact
+    fixed
+    decreasing
+
+criar grafo com info inerente a cada versão do livro(en e fr)
+    normalizar valores(fun log)
+    criar gráfico com valores normalizados
+
+analisar informação à pata(verificar/encontrar relações, sequências, padrões, etc)
+
+
+Dúvidas
+    como calcular erro absoluto e relativo
+        contagem exata - contagem aproximada?
+    média
+        transformo para ascii, somo tudo e divido pela quant de letras?
+
+
+ANÁLISE DOS RESULTADOS
+Comum
+    foco nas vogais
+    barras vazias dizem respeito a letras que não existem
+    letra mais utilziada (e)
+EN
+    letras mais utilizadas (e, t, a, o, i)
+    letras menos utilizadas (Â, Ç, À, Æ, Ê)
+    muito poucos assentos(mais certamente nomes)
+    fixed chande - ordem diferente de letras + usadas (1/10)
+    dec chance - (10/10)
+    1
+    10
+FR
+    presença dominante de assentos(lexicologia mais complexa)
+    letras mais utilizadas (e, a, t, s, i)
+    letras menos utilizadas (Æ, Ü, Œ, Ñ, Ë)
+    fixed chance - (6/10)
+    dec chance - (10/10)
